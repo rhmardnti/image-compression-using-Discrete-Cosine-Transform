@@ -1,2 +1,2 @@
 # image-compression-using-Discrete-Cosine-Transform
-This project is based on digital image processing course assignment 
+Proyek ini dibuat berdasarkan tugas akhir mata kuliah Pengolahan Citra Digital
