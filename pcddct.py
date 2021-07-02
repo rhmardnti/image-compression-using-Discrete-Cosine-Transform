@@ -8,7 +8,7 @@ Original file is located at
 
 Kompresi Citra dengan Discrete Cosine Transform (DCT)
 
-oleh Rahma Ardianti, Reni Yuliyanti dan Wikara Humasta
+
 """
 
 # Pemanggilan library open cv, numpy, matplotlib 
